@@ -1,0 +1,19 @@
+{
+  "name": "my-favorite-movie",
+  "version": "1.0.0",
+  "description": "aplicaión de películas haciendo uso de la api TMDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XdiegoX1407/My-Favorite-Movie.git"
+  },
+  "author": "diego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XdiegoX1407/My-Favorite-Movie/issues"
+  },
+  "homepage": "https://github.com/XdiegoX1407/My-Favorite-Movie#readme"
+}
